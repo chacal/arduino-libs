@@ -1,0 +1,1 @@
+float getTemperature(int RawADC, int dividerResistor, int calibration);
