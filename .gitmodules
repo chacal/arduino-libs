@@ -1,0 +1,3 @@
+[submodule "RF24-forked"]
+	path = RF24-forked
+	url = git@github.com:chacal/RF24-forked.git
