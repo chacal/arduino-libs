@@ -1,3 +1,6 @@
 [submodule "RF24-forked"]
 	path = RF24-forked
 	url = git@github.com:chacal/RF24-forked.git
+[submodule "Adafruit_BME280_Library-forked"]
+	path = Adafruit_BME280_Library-forked
+	url = git@github.com:chacal/Adafruit_BME280_Library-forked.git
