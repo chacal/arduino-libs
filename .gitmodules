@@ -4,3 +4,6 @@
 [submodule "Adafruit_BME280_Library-forked"]
 	path = Adafruit_BME280_Library-forked
 	url = git@github.com:chacal/Adafruit_BME280_Library-forked.git
+[submodule "Adafruit_BMP280_Library"]
+	path = Adafruit_BMP280_Library
+	url = git@github.com:adafruit/Adafruit_BMP280_Library.git
